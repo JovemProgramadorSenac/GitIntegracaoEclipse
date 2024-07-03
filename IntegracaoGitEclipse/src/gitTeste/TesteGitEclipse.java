@@ -6,6 +6,7 @@ public class TesteGitEclipse {
 		// TODO Auto-generated method stub
 		System.out.println("Integração Git Eclipse Primeiro Teste.");
 		System.out.println("Alterando do  Git  para o Eclipse.");
+		System.out.println("Segundo commit.");
 
 	}
 
